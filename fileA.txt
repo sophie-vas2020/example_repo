@@ -2,6 +2,6 @@
 
 "Something wicked this way comes ......
 
-"feature 1 with 2 bugs
+"feature 1 with 1 bug
  feature 2 wip"
 "
