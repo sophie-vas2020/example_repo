@@ -2,5 +2,5 @@
 
 "Something wicked this way comes ......
 
-"feature 1 wip"
+"feature 1 with 2 bugs"
 "
